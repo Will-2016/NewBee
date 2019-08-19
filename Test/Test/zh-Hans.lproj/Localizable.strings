@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Test
+
+  Created by Will on 2019/8/19.
+  Copyright © 2019 Will. All rights reserved.
+*/
+
+"成功" = "SuccessSuccessSuccessSuccessSuccessSuccessSuccessSuccess";
+"标签" = "Label";
+"按钮" = "Button";
